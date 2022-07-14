@@ -1,0 +1,29 @@
+.row div{
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    margin: 100%;
+    background-color: cyan;
+}
+
+.col-sm {
+    margin: 100%;
+    background-color: red;
+}
+
+.col-md {
+    margin: 100%;
+    background-color: yellow;
+}
+
+.col-lg {
+    margin: 100%;
+    background-color: beige;
+}
+
+.col-xl {
+    margin: 100%;
+    background-color: bisque;
+}
